@@ -7,7 +7,7 @@
 - Course Code: PHYS 2125
 - CRN: 13229
 - Term: Spring 2025
-- Professor: Joseph Barchas
+- Professor: Dr. Joseph Barchas
 - Lab Experiment: in-person, team collaboration
 - Written Report: individual
 
